@@ -4,12 +4,12 @@
 ##  Technologies
 
 ### Languages
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=Python&logoColor=F7DF1E)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=Python&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat&logo=openjdk)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
 
 ### Web Development
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853D?style=flat&logo=Node.js&logoColor=black)
