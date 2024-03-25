@@ -1,6 +1,6 @@
 ## Hi there :) 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=2000&pause=100&color=379fac&multiline=true&random=false&width=550&height=80&lines=Joshua+Gamboa;Computer+Engineering+Undergraduate+%7C+Research+Assistant;AI+%7C+Machine+Learning+%7C+Data+Science)](https://github.com/joshgc19)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=2000&pause=100&color=5651a7&multiline=true&random=false&width=550&height=80&lines=Joshua+Gamboa;Computer+Engineering+Undergraduate+%7C+Research+Assistant;AI+%7C+Machine+Learning+%7C+Data+Science)](https://github.com/joshgc19)
 ##  Technologies
 
 ### Languages
