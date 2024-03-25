@@ -1,6 +1,6 @@
 ## Hi there :) 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=2000&pause=100&color=5BF780&multiline=true&random=false&width=550&height=80&lines=Joshua+Gamboa;Computer+Engineering+Undergraduate+%7C+Research+Assistant;AI+%7C+Machine+Learning+%7C+Data+Science)](https://github.com/joshgc19)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=2000&pause=100&color=a176b6&multiline=true&random=false&width=550&height=80&lines=Joshua+Gamboa;Computer+Engineering+Undergraduate+%7C+Research+Assistant;AI+%7C+Machine+Learning+%7C+Data+Science)](https://github.com/joshgc19)
 ##  Technologies
 
 ### Languages
@@ -28,7 +28,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-005C84?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 
 ### Artificial Intelligence - Machine Learning
-![Numpy](https://img.shields.io/badge/-Numpy-3776ab?style=flat&logo=numpy&logoColor=white)
+![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![ScikitLearn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
