@@ -28,7 +28,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-005C84?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 
 ### Artificial Intelligence - Machine Learning
-![Numpy](https://img.shields.io/badge/-Numpy-3776ab?style=flat&logo=numpy&logoColor=white)
+![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![ScikitLearn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
